@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>baseTestcase</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>message</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>message</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>d9669d35-e566-41c4-bf63-000620678410</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>d9669d35-e566-41c4-bf63-000620678410</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2d66d6a-7ddd-47a4-a2db-65ee8510939e</testCaseGuid>
+</TestCaseEntity>

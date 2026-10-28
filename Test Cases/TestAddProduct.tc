@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestAddProduct</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>message</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>message</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>d9669d35-e566-41c4-bf63-000620678410</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>d9669d35-e566-41c4-bf63-000620678410</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>936f76ed-02ad-458f-94ac-f473fdc264c9</testCaseGuid>
+</TestCaseEntity>
